@@ -1,6 +1,6 @@
-# portfolio2
+# portfolio
 
-A new Flutter project.
+A responsive portfolio website made with Flutter web support.
 
 ## Getting Started
 
